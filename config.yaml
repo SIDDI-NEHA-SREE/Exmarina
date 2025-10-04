@@ -1,0 +1,9 @@
+credentials:
+  usernames: {}
+
+cookie:
+  name: marina_cookie
+  key: some_random_key
+  expiry_days: 30
+
+preauthorized: {}
